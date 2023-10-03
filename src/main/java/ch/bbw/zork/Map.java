@@ -1,4 +1,5 @@
 package ch.bbw.zork;
+
 import java.util.HashMap;
 
 public class Map {

@@ -1,25 +1,25 @@
 package ch.bbw.zork;
 
 public class Item {
-  private String name;
-  private String description;
-  private double weight;
+    private String name;
+    private String description;
+    private double weight;
 
-  public Item(String name, String description, double weight) {
-    this.name = name;
-    this.description = description;
-    this.weight = weight;
-  }
+    public Item(String name, String description, double weight) {
+        this.name = name;
+        this.description = description;
+        this.weight = weight;
+    }
 
-  public String getName() {
-    return name;
-  }
+    public String getName() {
+        return name;
+    }
 
-  public double getWeight() {
-    return weight;
-  }
+    public double getWeight() {
+        return weight;
+    }
 
-  public String toString() {
-    return name + " (" + description + ")";
-  }
+    public String toString() {
+        return name + " (" + description + ")";
+    }
 }
