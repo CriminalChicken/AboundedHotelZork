@@ -7,7 +7,7 @@ Willkommen im Abandoned Hotel, einem einfachen Text-Adventure-Spiel. Deine Aufga
 1. **Ziel:** Finde die Schlüssel für die Gästezimmer und knacke den Safe im Büro.
 2. **Steuerung:**
     - `go [Richtung]`: Bewege dich in die angegebene Richtung (z.B., `go north`).
-    - `take [Item]`: Nimm ein Item auf (z.B., `take key`).
+    - `take [Item]`: Nimm ein Item auf (z.B., `take key1`).
     - `drop [Item]`: Lasse ein Item fallen (z.B., `drop hammer`).
     - `map`: Zeige die Karte des Hotels an.
     - `quit`: Beendet das Spiel.
