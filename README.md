@@ -18,10 +18,10 @@ Um das Spiel zu starten, führe die `Main.java`-Datei aus und folge den Anweisun
 
 ## Spielentwicklung
 
-Dieses Spiel wurde im Rahmen des Programmierprojekts erstellt. Es basiert auf der Java-Sprache und wurde von [deinem Namen] entwickelt.
+Dieses Spiel wurde im Rahmen des Programmierprojekts erstellt. Es basiert auf der Java-Sprache und wurde von Oliver Zenger und Yanis Meichtry entwickelt.
 
 ## Lizenz
 
-Dieses Projekt ist unter der [Lizenz] lizenziert - siehe die [LICENSE.md](LICENSE.md) Datei für Details.
+Dieses Projekt ist unter der Schule.BBW lizenziert - siehe die [LICENSE.md](LICENSE.md) Datei für Details.
 
 Viel Spaß beim Spielen!
